@@ -24,7 +24,7 @@
     "mocha": "^6.1.4",
     "zombie": "^6.1.4",
     "helmet": "^3.18.0",
-    "bcrypt": "^3.0.6"
+    "bcrypt": "^5.0.0"
   },
   "engines": {
     "node": "12.3.0"
